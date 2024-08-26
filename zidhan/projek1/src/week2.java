@@ -1,4 +1,4 @@
-public class tugas2 {
+public class week2{
     public static void main(String[] args) {
         String nama = "Zidhan Arzaaq Karim";
         String npm = "2340506063";
@@ -6,9 +6,9 @@ public class tugas2 {
         String no_hp = "085704988928";
 
         System.out.println("Biodata :");
-        System.err.println("Nama      : " + nama);
-        System.err.println("NPM       : " + npm);
-        System.err.println("Alamat    : " + alamat);
-        System.err.println("NO HP     : " + nama);
+        System.out.println("Nama    :" + nama);
+        System.out.println("NPM     :" + npm);
+        System.out.println("Alamat  :" + alamat);
+        System.out.println("NO HP   :" + no_hp);
     }
 }
