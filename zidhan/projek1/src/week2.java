@@ -3,7 +3,7 @@ public class week2{
         String nama = "Zidhan Arzaaq Karim";
         String npm = "2340506063";
         String alamat = "Temanggung";
-        String no_hp = "085704988928";
+        String no_hp = "0858765432345";
 
         System.out.println("Biodata :");
         System.out.println("Nama    :" + nama);
