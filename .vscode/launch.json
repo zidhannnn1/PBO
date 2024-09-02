@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "PBO_aff14b7b"
+        },
+        {
+            "type": "java",
             "name": "tugas2",
             "request": "launch",
             "mainClass": "tugas2",
