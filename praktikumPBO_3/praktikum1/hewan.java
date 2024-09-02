@@ -22,6 +22,6 @@ public class hewan {
         System.out.println("Hewan Bersuara");
     }
     void info() {
-        System.System.out.println("Nama :" + getNama() + "Umur :" + getUmur());
+        System.out.println("Nama :" + getNama() + "Umur :" + getUmur());
     }
 }
