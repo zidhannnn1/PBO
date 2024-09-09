@@ -8,6 +8,13 @@
             "type": "java",
             "name": "Main",
             "request": "launch",
+            "mainClass": "praktikum3.Main",
+            "projectName": "PBO_aff14b7b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
             "mainClass": "Main",
             "projectName": "PBO_aff14b7b"
         },
